@@ -1,8 +1,11 @@
 ---
 title: "Coursera RR Assignment 1"
 author: "Tomasz Kun"
-date: "27 aug 2018"
-output: html_document
+date: "09 oct 2018"
+output:
+  html_document:
+      keep_md: yes
+  pdf_document: default
 ---
 
 ### Prepare Local Environment
